@@ -7,6 +7,10 @@ font-family: 'Ubuntu', sans-serif;
   font-family: "Montserrat";
 } */
 
+html{
+  scroll-behavior: smooth;
+}
+
 #title {
   background-color: #ff4c68;
   color: white;
