@@ -11,20 +11,8 @@ html{
   scroll-behavior: smooth;
 }
 
-#title {
-  background-color: #ff4c68;
-  color: white;
-}
-
-.container-fluid {
-  padding: 3% 15% 7%;
-}
-
 h1 {
-  font-family: "Montserrat", sans-serif;
-  font-size: 3.5rem;
-  line-height: 1.5;
-  font-weight: 800;
+
 }
 
 h2 {
@@ -42,6 +30,26 @@ h3 {
 p {
   color: #8f8f8f;
 }
+
+/* Heading */
+
+.big-heading{
+  font-family: "Montserrat", sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 800;
+}
+
+#title {
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid {
+  padding: 3% 15% 7%;
+}
+
+
 
 .title-image {
   transform: rotate(25deg);
